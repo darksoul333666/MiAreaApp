@@ -1,0 +1,7 @@
+{
+  "name": "MiAreaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
